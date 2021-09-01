@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 
 theme="roots"
 
-enableGitInfo=true
+enableGitInfo=false
 enableEmoji= true
 enableRobotsTXT= true
 
