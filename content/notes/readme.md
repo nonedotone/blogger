@@ -5,4 +5,5 @@ draft: true
 weight: 2
 ---
 
-[raspberry-pi](/notes/raspberry-pi/) - 树莓派笔记文档
+* [deployment](/notes/deployment/) - 服务部署记录
+* [raspberry-pi](/notes/raspberry-pi/) - 树莓派笔记文档
